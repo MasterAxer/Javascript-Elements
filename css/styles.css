@@ -1,0 +1,12 @@
+div{
+	margin: 1%;
+}
+.result1 {
+	color:green;
+	font-weight: bold;
+	
+}
+.result1 p span{
+	font-weight: initial;
+}
+
