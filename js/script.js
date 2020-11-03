@@ -6,7 +6,7 @@ function calculate()
 	var n3=document.getElementById('num3').value;
 	var res1=document.getElementById('res1');
 	
-	if(Number(n1)!=""&&Number(n2)!=""&&Number(n3)!="")
+	if(n1.length>0&&n2.length>0&&n3.length>0)
 	{
 			if(Number(n1)>Number(n2))
 		{
